@@ -1,0 +1,61 @@
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6, .display-7, .display-8 {
+  font-family: 'Noto Sans KR', sans-serif !important;
+}
+
+p, select, input {
+  font-family: 'Noto Sans KR', sans-serif !important;
+}
+
+#info_input {
+  margin: auto;
+  width: 80%;
+  text-align: center;
+}
+
+#send_moreinfo, #send_moreinfo_btn {
+  width: 100%;
+}
+
+.skin_type_radio {
+  margin-left: 3%;
+}
+
+#wordcloud_category {
+  max-width: 60%;
+  height: auto;
+  margin: auto;
+}
+
+#tag_input {
+  width: 55%;
+  margin: auto;
+}
+
+#tag_submit {
+  width: 50%;
+  margin: auto;
+}
+
+.product_name, .product_detailinfo {
+  font-weight: bold;
+}
+
+#product_name_link {
+  text-decoration: None;
+  font-family: 'Noto Sans KR', sans-serif !important;
+  font-weight: bold;
+  color:black;
+}
+
+#product_name_link:hover {
+  color:darkblue;
+}
+
+.sentiment_pos {
+  color: blue;
+  font-weight: bold;
+}
+.sentiment_neg {
+  color: red;
+  font-weight: bold;
+}
